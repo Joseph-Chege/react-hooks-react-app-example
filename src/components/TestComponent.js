@@ -5,7 +5,7 @@ function TestComponent() {
   return (
     <div className="video">
       <iframe
-        width="560"
+        width="600"
         height="315"
         src="https://www.youtube.com/embed/5TbUxGZtwGI"
         frameBorder="0"
